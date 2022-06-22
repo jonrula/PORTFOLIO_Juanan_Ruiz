@@ -1,0 +1,15 @@
+Admin , 0000 , Compras , Ventas , Pagos , Gastos , RRHH
+Elena , 1234 , RRHH , Gastos
+Juanan , 1234 , Compras , Gastos
+Txus , 1234 , Compras , Ventas , Gastos
+Igor , 1234 , Gastos
+Gustavo , 1234 , Gastos
+Raul , 1234 , Gastos
+Guillermo , 1234 , Gastos
+Abecedario , ESA12345123 , Pagos
+La sinrazon , KLM19411N , Pagos
+Alava News , ESA3214574 , Pagos
+LiverPress , IKO3214574 , Pagos
+PinkPress , FGY3214574 , Pagos
+Somos , AVR3214574 , Pagos
+Pepe , 2\mU , Gastos
