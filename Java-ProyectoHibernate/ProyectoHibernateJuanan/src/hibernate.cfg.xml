@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="connection.url"><![CDATA[jdbc:mysql://localhost:3306/Hibernate?autoReconnect=true&useSSL=false]]></property>
+    <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password">damnoc1819</property>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+      <property name="hibernate.show_sql">false</property>
+    <property name="hibernate.query.factory_class">org.hibernate.hql.internal.classic.ClassicQueryTranslatorFactory</property>
+    <property name="current_session_context_class">thread</property>
+    <!-- DB schema will be updated if needed -->
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    <mapping resource="Gestion.hbm.xml"/>
+      <mapping class="com.company.Gestion"/>
+      <mapping resource="Piezas.hbm.xml"/>
+      <mapping class="com.company.Piezas"/>
+      <mapping resource="Proveedores.hbm.xml"/>
+      <mapping class="com.company.Proveedores"/>
+      <mapping resource="Proyectos.hbm.xml"/>
+      <mapping class="com.company.Proyectos"/>
+    <mapping resource="Registros.hbm.xml"/>
+    <mapping class="com.company.Registros"/>
+    <mapping resource="Usuarios.hbm.xml"/>
+    <mapping class="com.company.Usuarios"/>
+    <!-- <property name="connection.username"/> -->
+    <!-- <property name="connection.password"/> -->
+
+
+  </session-factory>
+</hibernate-configuration>
