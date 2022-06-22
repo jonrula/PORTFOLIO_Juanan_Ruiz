@@ -1,0 +1,2 @@
+for $disco in (/Valoraciones/DatosValoracion) where $disco/disco/DatosDisco[nombreDisco='Kortatu (AlbÃºm)']
+return concat ('Personas que han escuchado "',$disco/disco/DatosDisco/nombreDisco/text(),'": ', $disco/persona/DatosPersona/nombrePersona/text(),', Puntuación: ', $disco/puntuacionDisco)

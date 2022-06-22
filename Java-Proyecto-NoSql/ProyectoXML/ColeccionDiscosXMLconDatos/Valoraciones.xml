@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Valoraciones>
+    <DatosValoracion>
+        <IDEscucha>1</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>1</IDpersona>
+                <nombrePersona>Ana</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>55</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>1</IDdisco>
+                <nombreDisco>Thriller</nombreDisco>
+                <cantante>Michael Jackson</cantante>
+                <duracion>42:19</duracion>
+                <anyoDisco>1982</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Wanna Be Startin Somethin</string>
+                    <string> 2 Baby Be Mine</string>
+                    <string> 3 The Girl Is Mine (With Paul McCartney)</string>
+                    <string> 4 Thriller</string>
+                    <string> 5 Beat It</string>
+                    <string> 6 Billie Jean</string>
+                    <string> 7 Human Nature</string>
+                    <string> 8 P.Y.T. (Pretty Young Thing)</string>
+                    <string> 9 The Lady In My Life</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>2</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>1</IDdisco>
+                <nombreDisco>Thriller</nombreDisco>
+                <cantante>Michael Jackson</cantante>
+                <duracion>42:19</duracion>
+                <anyoDisco>1982</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Wanna Be Startin Somethin</string>
+                    <string> 2 Baby Be Mine</string>
+                    <string> 3 The Girl Is Mine (With Paul McCartney)</string>
+                    <string> 4 Thriller</string>
+                    <string> 5 Beat It</string>
+                    <string> 6 Billie Jean</string>
+                    <string> 7 Human Nature</string>
+                    <string> 8 P.Y.T. (Pretty Young Thing)</string>
+                    <string> 9 The Lady In My Life</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>3</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>4</IDpersona>
+                <nombrePersona>Paco</nombrePersona>
+                <ApellidosPersona>López</ApellidosPersona>
+                <password>1234</password>
+                <edad>49</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>12</IDdisco>
+                <nombreDisco>Led Zeppelin IV</nombreDisco>
+                <cantante>Led Zeppelin</cantante>
+                <duracion>42:34</duracion>
+                <anyoDisco>1978</anyoDisco>
+                <estilo>Rock Clásico</estilo>
+                <canciones>
+                    <string> 1 Black Dog</string>
+                    <string> 2 Rock And Roll</string>
+                    <string> 3 The Battle Of Evermore</string>
+                    <string> 4 Stairway To Heaven</string>
+                    <string> 5 Misty Mountain Hop</string>
+                    <string> 6 Four Sticks</string>
+                    <string> 7 Going To California</string>
+                    <string> 8 When The Levee Breaks</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>4</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>4</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>4</IDpersona>
+                <nombrePersona>Paco</nombrePersona>
+                <ApellidosPersona>López</ApellidosPersona>
+                <password>1234</password>
+                <edad>49</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>20</IDdisco>
+                <nombreDisco>La Leyenda Del Tiempo</nombreDisco>
+                <cantante>Camarón</cantante>
+                <duracion>37:02</duracion>
+                <anyoDisco>1979</anyoDisco>
+                <estilo>Flamenco</estilo>
+                <canciones>
+                    <string> 1 La Leyenda Del Tiempo</string>
+                    <string> 2 Romance Del Amargo</string>
+                    <string> 3 Homenaje A Federico</string>
+                    <string> 4 Mi Niña Se Fue A La Mar</string>
+                    <string> 5 La Tarara</string>
+                    <string> 6 Volando Voy</string>
+                    <string> 7 Volando Voy</string>
+                    <string> 8 Viejo Mundo</string>
+                    <string> 9 Tangos De La Sultana</string>
+                    <string>10 Nana Del Caballo Grande</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>5</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>5</IDpersona>
+                <nombrePersona>Rosa</nombrePersona>
+                <ApellidosPersona>Martinez</ApellidosPersona>
+                <password>1234</password>
+                <edad>26</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>5</IDdisco>
+                <nombreDisco>Kortatu (Albúm)</nombreDisco>
+                <cantante>Kortatu</cantante>
+                <duracion>33:21</duracion>
+                <anyoDisco>1985</anyoDisco>
+                <estilo>Punk,Ska</estilo>
+                <canciones>
+                    <string> 1 Don Vito Y La Revuelta En El Frenopatico</string>
+                    <string> 2 Jimmy Jazz</string>
+                    <string> 3 La Cultura</string>
+                    <string> 4 Nicaragua Sandinista</string>
+                    <string> 5 Zu Atrapatu Arte</string>
+                    <string> 6 Tolosa Inauteriak</string>
+                    <string> 7 Hernani 15-6-84</string>
+                    <string> 8 Sospechosos</string>
+                    <string> 9 Sarri Sarri</string>
+                    <string>10 La Familia Iscariote</string>
+                    <string>11 Tatuado</string>
+                    <string>12 Mr. Snoid Entre Sus Amigos Los Humanos</string>
+                    <string>13 Desmond Tutu</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>6</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>5</IDpersona>
+                <nombrePersona>Rosa</nombrePersona>
+                <ApellidosPersona>Martinez</ApellidosPersona>
+                <password>1234</password>
+                <edad>26</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>4</IDdisco>
+                <nombreDisco>Master Of Puppets</nombreDisco>
+                <cantante>Metallica</cantante>
+                <duracion>54:44</duracion>
+                <anyoDisco>1986</anyoDisco>
+                <estilo>Trash</estilo>
+                <canciones>
+                    <string> 1 Battery</string>
+                    <string> 2 Master Of Puppets</string>
+                    <string> 3 The Thing That Should Not Be</string>
+                    <string> 4 Welcome Home (Sanitarium)</string>
+                    <string> 5 Disposable Heroes</string>
+                    <string> 6 Leper Messiah</string>
+                    <string> 7 Orion</string>
+                    <string> 8 The Fling</string>
+                    <string> 9 Damage, Inc.</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>4</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>7</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>5</IDpersona>
+                <nombrePersona>Rosa</nombrePersona>
+                <ApellidosPersona>Martinez</ApellidosPersona>
+                <password>1234</password>
+                <edad>26</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>15</IDdisco>
+                <nombreDisco>Exodus</nombreDisco>
+                <cantante>Bob Marley and The Wailers</cantante>
+                <duracion>37:24</duracion>
+                <anyoDisco>1977</anyoDisco>
+                <estilo>Reggae</estilo>
+                <canciones>
+                    <string> 1 Natural Mystic</string>
+                    <string> 2 So Much Things To Say</string>
+                    <string> 3 Guiltiness</string>
+                    <string> 4 The Heathen</string>
+                    <string> 5 Exodus</string>
+                    <string> 6 Jamming</string>
+                    <string> 7 Waiting In Vain</string>
+                    <string> 8 Turn Your Lights Down Low</string>
+                    <string> 9 Three Little Birds</string>
+                    <string>10 One Love / People Get Ready</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>8</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>10</IDdisco>
+                <nombreDisco>Nevermind</nombreDisco>
+                <cantante>Nirvana</cantante>
+                <duracion>42:38</duracion>
+                <anyoDisco>1991</anyoDisco>
+                <estilo>Grunge</estilo>
+                <canciones>
+                    <string> 1 Smells Like Teen Spirit</string>
+                    <string> 2 In Bloom</string>
+                    <string> 3 Come As You Are</string>
+                    <string> 4 Breed</string>
+                    <string> 5 Lithium</string>
+                    <string> 6 Polly</string>
+                    <string> 7 Territorial Pissings</string>
+                    <string> 8 Drain You</string>
+                    <string> 9 Lounge Act</string>
+                    <string>10 Stay Away</string>
+                    <string>11 On A Plain</string>
+                    <string>12 Something In The Way</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>9</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>3</IDdisco>
+                <nombreDisco>The Piano</nombreDisco>
+                <cantante>Michael Nyman</cantante>
+                <duracion>61:47</duracion>
+                <anyoDisco>1993</anyoDisco>
+                <estilo>Clásica</estilo>
+                <canciones>
+                    <string> 1 To The Edge Of The Earth</string>
+                    <string> 2 Big My Secret</string>
+                    <string> 3 A Wild And Distant Shore</string>
+                    <string> 4 The Heart Asks Pleasure First</string>
+                    <string> 5 Here To There</string>
+                    <string> 6 The Promise</string>
+                    <string> 7 A Bed Of Ferns</string>
+                    <string> 8 The Fling</string>
+                    <string> 9 The Scent Of Love blues</string>
+                    <string>10 Deep Into The Forest</string>
+                    <string>11 The Mood That Passes Through You</string>
+                    <string>12 Lost And Found</string>
+                    <string>13 The Embrace</string>
+                    <string>14 Little Impulse</string>
+                    <string>15 The Sacrifice</string>
+                    <string>16 I Clipped Your Wing</string>
+                    <string>17 The Wounded</string>
+                    <string>18 All Imperfect Things</string>
+                    <string>19 Dreams Of A Journey</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>10</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>17</IDdisco>
+                <nombreDisco>Like a Prayer</nombreDisco>
+                <cantante>Madonna</cantante>
+                <duracion>51:16</duracion>
+                <anyoDisco>1989</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Like A Prayer</string>
+                    <string> 2 I Like A Prayer</string>
+                    <string> 3 Love Song</string>
+                    <string> 4 Till Death Do Us Part</string>
+                    <string> 5 Promise To Try</string>
+                    <string> 6 Cherish</string>
+                    <string> 7 Dear Jessie</string>
+                    <string> 8 Oh Father</string>
+                    <string> 9 Keep It Together</string>
+                    <string>10 Spanish Eyes</string>
+                    <string>11 Act Of Contrition</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>11</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>1</IDpersona>
+                <nombrePersona>Ana</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>55</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>17</IDdisco>
+                <nombreDisco>Like a Prayer</nombreDisco>
+                <cantante>Madonna</cantante>
+                <duracion>51:16</duracion>
+                <anyoDisco>1989</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Like A Prayer</string>
+                    <string> 2 I Like A Prayer</string>
+                    <string> 3 Love Song</string>
+                    <string> 4 Till Death Do Us Part</string>
+                    <string> 5 Promise To Try</string>
+                    <string> 6 Cherish</string>
+                    <string> 7 Dear Jessie</string>
+                    <string> 8 Oh Father</string>
+                    <string> 9 Keep It Together</string>
+                    <string>10 Spanish Eyes</string>
+                    <string>11 Act Of Contrition</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>12</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>1</IDpersona>
+                <nombrePersona>Ana</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>55</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>19</IDdisco>
+                <nombreDisco>Vice Versa</nombreDisco>
+                <cantante>Rauw Alejandro</cantante>
+                <duracion>44:12</duracion>
+                <anyoDisco>2021</anyoDisco>
+                <estilo>Reggae</estilo>
+                <canciones>
+                    <string> 1 Todo De Ti</string>
+                    <string> 2 Sexo Virtual</string>
+                    <string> 3 Nubes</string>
+                    <string> 4 Track 4</string>
+                    <string> 5 2/Catorce</string>
+                    <string> 6 Aquel Nap ZzZz</string>
+                    <string> 7 Cúrame</string>
+                    <string> 8 Cosa Guapa</string>
+                    <string> 9 Desenfocao</string>
+                    <string>10 ¿Cuándo Fue?</string>
+                    <string>11 La Old Skul</string>
+                    <string>11 ¿Y Eso?</string>
+                    <string>12 Tengo un Pal</string>
+                    <string>13 Brazilera</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>13</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>4</IDpersona>
+                <nombrePersona>Paco</nombrePersona>
+                <ApellidosPersona>López</ApellidosPersona>
+                <password>1234</password>
+                <edad>49</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>1</IDdisco>
+                <nombreDisco>Thriller</nombreDisco>
+                <cantante>Michael Jackson</cantante>
+                <duracion>42:19</duracion>
+                <anyoDisco>1982</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Wanna Be Startin Somethin</string>
+                    <string> 2 Baby Be Mine</string>
+                    <string> 3 The Girl Is Mine (With Paul McCartney)</string>
+                    <string> 4 Thriller</string>
+                    <string> 5 Beat It</string>
+                    <string> 6 Billie Jean</string>
+                    <string> 7 Human Nature</string>
+                    <string> 8 P.Y.T. (Pretty Young Thing)</string>
+                    <string> 9 The Lady In My Life</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>14</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>5</IDpersona>
+                <nombrePersona>Rosa</nombrePersona>
+                <ApellidosPersona>Martinez</ApellidosPersona>
+                <password>1234</password>
+                <edad>26</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>19</IDdisco>
+                <nombreDisco>Vice Versa</nombreDisco>
+                <cantante>Rauw Alejandro</cantante>
+                <duracion>44:12</duracion>
+                <anyoDisco>2021</anyoDisco>
+                <estilo>Reggae</estilo>
+                <canciones>
+                    <string> 1 Todo De Ti</string>
+                    <string> 2 Sexo Virtual</string>
+                    <string> 3 Nubes</string>
+                    <string> 4 Track 4</string>
+                    <string> 5 2/Catorce</string>
+                    <string> 6 Aquel Nap ZzZz</string>
+                    <string> 7 Cúrame</string>
+                    <string> 8 Cosa Guapa</string>
+                    <string> 9 Desenfocao</string>
+                    <string>10 ¿Cuándo Fue?</string>
+                    <string>11 La Old Skul</string>
+                    <string>11 ¿Y Eso?</string>
+                    <string>12 Tengo un Pal</string>
+                    <string>13 Brazilera</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>15</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>5</IDpersona>
+                <nombrePersona>Rosa</nombrePersona>
+                <ApellidosPersona>Martinez</ApellidosPersona>
+                <password>1234</password>
+                <edad>26</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>1</IDdisco>
+                <nombreDisco>Thriller</nombreDisco>
+                <cantante>Michael Jackson</cantante>
+                <duracion>42:19</duracion>
+                <anyoDisco>1982</anyoDisco>
+                <estilo>Pop</estilo>
+                <canciones>
+                    <string> 1 Wanna Be Startin Somethin</string>
+                    <string> 2 Baby Be Mine</string>
+                    <string> 3 The Girl Is Mine (With Paul McCartney)</string>
+                    <string> 4 Thriller</string>
+                    <string> 5 Beat It</string>
+                    <string> 6 Billie Jean</string>
+                    <string> 7 Human Nature</string>
+                    <string> 8 P.Y.T. (Pretty Young Thing)</string>
+                    <string> 9 The Lady In My Life</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>4</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>16</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>4</IDpersona>
+                <nombrePersona>Paco</nombrePersona>
+                <ApellidosPersona>López</ApellidosPersona>
+                <password>1234</password>
+                <edad>49</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>10</IDdisco>
+                <nombreDisco>Nevermind</nombreDisco>
+                <cantante>Nirvana</cantante>
+                <duracion>42:38</duracion>
+                <anyoDisco>1991</anyoDisco>
+                <estilo>Grunge</estilo>
+                <canciones>
+                    <string> 1 Smells Like Teen Spirit</string>
+                    <string> 2 In Bloom</string>
+                    <string> 3 Come As You Are</string>
+                    <string> 4 Breed</string>
+                    <string> 5 Lithium</string>
+                    <string> 6 Polly</string>
+                    <string> 7 Territorial Pissings</string>
+                    <string> 8 Drain You</string>
+                    <string> 9 Lounge Act</string>
+                    <string>10 Stay Away</string>
+                    <string>11 On A Plain</string>
+                    <string>12 Something In The Way</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>17</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>1</IDpersona>
+                <nombrePersona>Ana</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>55</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>20</IDdisco>
+                <nombreDisco>La Leyenda Del Tiempo</nombreDisco>
+                <cantante>Camarón</cantante>
+                <duracion>37:02</duracion>
+                <anyoDisco>1979</anyoDisco>
+                <estilo>Flamenco</estilo>
+                <canciones>
+                    <string> 1 La Leyenda Del Tiempo</string>
+                    <string> 2 Romance Del Amargo</string>
+                    <string> 3 Homenaje A Federico</string>
+                    <string> 4 Mi Niña Se Fue A La Mar</string>
+                    <string> 5 La Tarara</string>
+                    <string> 6 Volando Voy</string>
+                    <string> 7 Volando Voy</string>
+                    <string> 8 Viejo Mundo</string>
+                    <string> 9 Tangos De La Sultana</string>
+                    <string>10 Nana Del Caballo Grande</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>18</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>20</IDdisco>
+                <nombreDisco>La Leyenda Del Tiempo</nombreDisco>
+                <cantante>Camarón</cantante>
+                <duracion>37:02</duracion>
+                <anyoDisco>1979</anyoDisco>
+                <estilo>Flamenco</estilo>
+                <canciones>
+                    <string> 1 La Leyenda Del Tiempo</string>
+                    <string> 2 Romance Del Amargo</string>
+                    <string> 3 Homenaje A Federico</string>
+                    <string> 4 Mi Niña Se Fue A La Mar</string>
+                    <string> 5 La Tarara</string>
+                    <string> 6 Volando Voy</string>
+                    <string> 7 Volando Voy</string>
+                    <string> 8 Viejo Mundo</string>
+                    <string> 9 Tangos De La Sultana</string>
+                    <string>10 Nana Del Caballo Grande</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>19</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>11</IDdisco>
+                <nombreDisco>Back in Black</nombreDisco>
+                <cantante>AC/DC</cantante>
+                <duracion>42:11</duracion>
+                <anyoDisco>1980</anyoDisco>
+                <estilo>Hard Rock</estilo>
+                <canciones>
+                    <string> 1 Hell's Bells</string>
+                    <string> 2 Shoot To Thrill</string>
+                    <string> 3 What Do You Do For Money Honey</string>
+                    <string> 4 Given The Dog A Bone</string>
+                    <string> 5 Let Me Put My Love Into You</string>
+                    <string> 6 Back In Black</string>
+                    <string> 7 You Shook Me All Night Long</string>
+                    <string> 8 Have A Drink On Me</string>
+                    <string> 9 Shake A Leg</string>
+                    <string>10 Rock And Roll Ain't Noise Pollution</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>3</puntuacionDisco>
+    </DatosValoracion>
+    <DatosValoracion>
+        <IDEscucha>20</IDEscucha>
+        <persona>
+            <DatosPersona>
+                <IDpersona>3</IDpersona>
+                <nombrePersona>Juanan</nombrePersona>
+                <ApellidosPersona>Ruiz</ApellidosPersona>
+                <password>1234</password>
+                <edad>50</edad>
+                <discosEscuchados>2</discosEscuchados>
+            </DatosPersona>
+        </persona>
+        <disco>
+            <DatosDisco>
+                <IDdisco>16</IDdisco>
+                <nombreDisco>The Joshua Tree</nombreDisco>
+                <cantante>U2</cantante>
+                <duracion>50:11</duracion>
+                <anyoDisco>1987</anyoDisco>
+                <estilo>Rock</estilo>
+                <canciones>
+                    <string> 1 Where The Streets Have No Name</string>
+                    <string> 2 I Still Haven't Found What I'm Looking For</string>
+                    <string> 3 With Or Without You</string>
+                    <string> 4 Bullet The Blue Sky</string>
+                    <string> 5 Running To Stand Still</string>
+                    <string> 6 Red Hill Mining Town</string>
+                    <string> 7 In God's Country</string>
+                    <string> 8 Trip Through Your Wires</string>
+                    <string> 9 One Tree Hill</string>
+                    <string>10 Exit</string>
+                    <string>11 Mothers Of The Disappeared</string>
+                </canciones>
+                <vecesDiscoEscuchado>1</vecesDiscoEscuchado>
+            </DatosDisco>
+        </disco>
+        <puntuacionDisco>5</puntuacionDisco>
+    </DatosValoracion>
+</Valoraciones>
