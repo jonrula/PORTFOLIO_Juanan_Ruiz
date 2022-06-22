@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/musica3difuminada"
+    tools:context=".thirdFragment">
+
+    <EditText
+        android:id="@+id/nombrePelicula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="72dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:hint="@string/Disco"
+        android:textColorHint="@color/purple_500"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/generoPelicula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="65dp"
+        android:layout_marginEnd="1dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:hint="@string/Estilo"
+        android:textColorHint="@color/purple_500"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/anyoEstreno"
+        app:layout_constraintStart_toStartOf="@+id/nombrePelicula"
+        app:layout_constraintTop_toBottomOf="@+id/nombrePelicula"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/anyoEstreno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="85dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:hint="@string/Año_Publicación"
+        android:textColorHint="@color/purple_500"
+        android:inputType="number"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/generoPelicula"
+        android:autofillHints="" />
+
+
+    <EditText
+        android:id="@+id/etCanciones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="10"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:hint="@string/canciones"
+        android:textColorHighlight="@color/purple_500"
+        android:textColorHint="@color/purple_500"
+        app:layout_constraintTop_toBottomOf="@+id/eturl"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/eturl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:hint="@string/url"
+        android:textColorHint="@color/purple_500"
+        android:inputType="textPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/anyoEstreno"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/etCanciones"
+        android:autofillHints=""/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
