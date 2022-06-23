@@ -14,31 +14,36 @@ El funcionamiento de la aplicación será así:
 
 - La aplicación tiene seguir la estructura de este diagrama de clases:
 
-	```plantuml
-	@startuml
-	skinparam classAttributeIconSize 0
-	skinparam nodesep 100
-	skinparam ranksep 80
+    ```plantuml
+    @startuml
+    skinparam classAttributeIconSize 0
+    skinparam nodesep 100
+    skinparam ranksep 80
 	
-	class Jugador {
-	- nombre: String
-	- record: int
-	}
+    class Jugador {
+    - nombre: String
+    - record: int
+    }
 	
-	class Pregunta {
-	- texto: String
-	}
+    class Pregunta {
+    - texto: String
+    }
 	
-	class Respuesta {
-	- texto: String
-	- correcta: boolean = false
-	}
+    class Respuesta {
+    - texto: String
+    - correcta: boolean = false
+    }
 	
-	Pregunta - "2..4" Respuesta
+    Pregunta - "2..4" Respuesta
 	
-	@enduml
-	```
+    @enduml
+    ```
 
 - La base de datos tiene que ser SQLite. Diséñala usando [DB Browser for SQLite](https://sqlitebrowser.org) y añádela al proyecto.
 - La aplicación tiene que tener un GUI basado en Swing como interfaz de usuario. El diseño es libre.
 - No es obligatorio que la aplicación permita crear, editar o borrar preguntas; crea manualmente unas pocas en la base de datos para hacer las pruebas.
+
+##LISTA DE JUGADORES:
+###Juanan, Luis, Txus, Ana
+
+

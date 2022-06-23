@@ -23,8 +23,7 @@ public class Configuracion {
 
             valor = properties.getProperty(variable);
 
-        } catch (
-                FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             System.err.println("Fichero no encontrado");
         } catch (
                 IOException e) {
