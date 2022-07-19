@@ -1,0 +1,3751 @@
+{
+"lastUpdateDate" : "2021-02-19T10:45:24Z",
+"newPositivesByDateByMunicipality" : [ {
+"date" : "2020-05-12T22:00:00Z",
+"items" : [ {
+"geoMunicipality" : {
+"oid" : "051",
+"officialName" : "Agurain/Salvatierra",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 549860.371817565,
+"y" : 4744386.9194737
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "001",
+"officialName" : "Alegr�a-Dulantzi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 539836.427014037,
+"y" : 4743207.10156583
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "002",
+"officialName" : "Amurrio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 499920.07753257,
+"y" : 4766657.3247549
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "049",
+"officialName" : "A�ana",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 501118.972267631,
+"y" : 4738851.0577167
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "003",
+"officialName" : "Aramaio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 535442.653908294,
+"y" : 4766755.00802264
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "006",
+"officialName" : "Armi��n",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510454.356812143,
+"y" : 4730110.13495763
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "037",
+"officialName" : "Arraia-Maeztu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 545350.871110923,
+"y" : 4732063.32039465
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "008",
+"officialName" : "Arratzua-Ubarrundia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529377.707945881,
+"y" : 4748645.80996432
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "004",
+"officialName" : "Artziniega",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 489380.801037225,
+"y" : 4774343.70814701
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "009",
+"officialName" : "Asparrena",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 555728.562716742,
+"y" : 4748780.71685599
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "010",
+"officialName" : "Ayala/Aiara",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 496524.650832556,
+"y" : 4769472.24258496
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "011",
+"officialName" : "Ba�os de Ebro/Ma�ueta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 526318.628501493,
+"y" : 4708691.43378723
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "013",
+"officialName" : "Barrundia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 541090.579740662,
+"y" : 4751776.83364831
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "014",
+"officialName" : "Berantevilla",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 511523.571324051,
+"y" : 4725583.04040794
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "016",
+"officialName" : "Bernedo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 541102.421327871,
+"y" : 4719457.79960624
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "017",
+"officialName" : "Campezo/Kanpezu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 553161.23074452,
+"y" : 4724371.52792906
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "021",
+"officialName" : "Elburgo/Burgelu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 537099.931866324,
+"y" : 4744284.72697835
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "022",
+"officialName" : "Elciego",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 531363.581702729,
+"y" : 4707053.61433088
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "023",
+"officialName" : "Elvillar/Bilar",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 537386.05133108,
+"y" : 4713081.1218734
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "046",
+"officialName" : "Erriberagoitia/Ribera Alta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 507579.522899098,
+"y" : 4739223.97383954
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "056",
+"officialName" : "Harana/Valle de Arana",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 552376.618390929,
+"y" : 4732616.5256356
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "901",
+"officialName" : "Iru�a Oka/Iru�a de Oca",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 515662.651350033,
+"y" : 4740624.30397567
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "027",
+"officialName" : "Iruraiz-Gauna",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 542830.320005161,
+"y" : 4742230.45885588
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "019",
+"officialName" : "Kripan",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 539740.976894299,
+"y" : 4715580.37377418
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "020",
+"officialName" : "Kuartango",
+"nameByLang" : { },
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "028",
+"officialName" : "Labastida/Bastida",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 516971.130244161,
+"y" : 4715329.90667693
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "030",
+"officialName" : "Lagr�n",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 534084.796585053,
+"y" : 4719383.00241832
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "031",
+"officialName" : "Laguardia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 534086.173705571,
+"y" : 4711320.70341715
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "032",
+"officialName" : "Lanciego/Lantziego",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 539990.260446755,
+"y" : 4712324.27151502
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "902",
+"officialName" : "Lantar�n",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 496076.591890357,
+"y" : 4733322.11477457
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "033",
+"officialName" : "Lapuebla de Labarca",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 535099.107693314,
+"y" : 4704678.28120394
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "036",
+"officialName" : "Laudio/Llodio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 503027.397426243,
+"y" : 4776725.30020185
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "058",
+"officialName" : "Legutio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529132.621724825,
+"y" : 4758407.72783616
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "034",
+"officialName" : "Leza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529972.558039826,
+"y" : 4712586.57658453
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "041",
+"officialName" : "Navaridas",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 530826.348022314,
+"y" : 4710224.23123291
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "042",
+"officialName" : "Okondo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 498360.657593627,
+"y" : 4778704.76113812
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "043",
+"officialName" : "Oy�n-Oion",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 546235.10617696,
+"y" : 4706088.04972335
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "044",
+"officialName" : "Pe�acerrada-Urizaharra",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 523483.582651319,
+"y" : 4721354.42473153
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "047",
+"officialName" : "Ribera Baja/Erriberabeitia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 506667.077478019,
+"y" : 4728864.21837186
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "052",
+"officialName" : "Samaniego",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 526323.642209726,
+"y" : 4712904.83207025
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "053",
+"officialName" : "San Mill�n/Donemiliaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 555145.892305463,
+"y" : 4745698.6647836
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "054",
+"officialName" : "Urkabustaiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 508122.908267576,
+"y" : 4755534.11006087
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "055",
+"officialName" : "Valdegov�a/Gaubea",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 491983.138258544,
+"y" : 4743961.33237292
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "057",
+"officialName" : "Villabuena de �lava/Eskuernaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 527445.846999771,
+"y" : 4710834.60668112
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "059",
+"officialName" : "Vitoria-Gasteiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 526776.60765916,
+"y" : 4743864.59894248
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 3
+}, {
+"geoMunicipality" : {
+"oid" : "060",
+"officialName" : "Y�cora/Iekora",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 543493.399411479,
+"y" : 4713127.89386179
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "061",
+"officialName" : "Zalduondo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 553354.662576805,
+"y" : 4748297.14968667
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "062",
+"officialName" : "Zambrana",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510009.167558209,
+"y" : 4723183.40144437
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "018",
+"officialName" : "Zigoitia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 522032.246057465,
+"y" : 4756480.74791038
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "063",
+"officialName" : "Zuia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 514697.397067891,
+"y" : 4755975.65442832
+},
+"stateId" : "16",
+"countyId" : "01",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "001",
+"officialName" : "Abadi�o",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 531862.536380481,
+"y" : 4777820.29263956
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "002",
+"officialName" : "Abanto y Ci�rvana-Abanto Zierbena",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 494008.428997883,
+"y" : 4796435.90395388
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "911",
+"officialName" : "Ajangiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 527425.882875375,
+"y" : 4795229.49060157
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "912",
+"officialName" : "Alonsotegi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 500989.836295701,
+"y" : 4788036.73265588
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "003",
+"officialName" : "Amorebieta-Etxano",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 521705.687077617,
+"y" : 4785453.59512396
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "004",
+"officialName" : "Amoroto",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 539452.886580419,
+"y" : 4797129.13520964
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "005",
+"officialName" : "Arakaldo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 505416.429399418,
+"y" : 4777885.14153154
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "006",
+"officialName" : "Arantzazu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 516950.143587164,
+"y" : 4778240.66063433
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "093",
+"officialName" : "Areatza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 518861.826006882,
+"y" : 4774266.32140266
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "009",
+"officialName" : "Arrankudiaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 506383.712254299,
+"y" : 4779526.22042958
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "914",
+"officialName" : "Arratzu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529167.626973921,
+"y" : 4794815.41152956
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "010",
+"officialName" : "Arrieta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 518723.033698864,
+"y" : 4798804.1982865
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "011",
+"officialName" : "Arrigorriaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 509102.857332731,
+"y" : 4783737.10914246
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "023",
+"officialName" : "Artea",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 517677.922919137,
+"y" : 4775563.08927806
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "008",
+"officialName" : "Artzentales",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 482016.48001932,
+"y" : 4788749.7305258
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "091",
+"officialName" : "Atxondo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 533773.377684673,
+"y" : 4775248.16322205
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "070",
+"officialName" : "Aulesti",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 535572.721704288,
+"y" : 4794037.32480877
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "012",
+"officialName" : "Bakio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 515021.440947391,
+"y" : 4807814.05497962
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "090",
+"officialName" : "Balmaseda",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 484313.987078544,
+"y" : 4782620.10047594
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "013",
+"officialName" : "Barakaldo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 501137.287145898,
+"y" : 4793874.39271756
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 7
+}, {
+"geoMunicipality" : {
+"oid" : "014",
+"officialName" : "Barrika",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 503006.715879781,
+"y" : 4805988.44768962
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "015",
+"officialName" : "Basauri",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 508809.093612165,
+"y" : 4786960.69697105
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "092",
+"officialName" : "Bedia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 516298.749089674,
+"y" : 4784044.50648808
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "016",
+"officialName" : "Berango",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 500291.133172989,
+"y" : 4801212.25580805
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "017",
+"officialName" : "Bermeo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 522424.057460422,
+"y" : 4807523.36477222
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "018",
+"officialName" : "Berriatua",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 543179.333471061,
+"y" : 4795190.04735784
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "019",
+"officialName" : "Berriz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 534335.539720333,
+"y" : 4780314.24544803
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "020",
+"officialName" : "Bilbao",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 506208.611792743,
+"y" : 4790150.43059856
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 11
+}, {
+"geoMunicipality" : {
+"oid" : "021",
+"officialName" : "Busturia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 524251.117061241,
+"y" : 4803321.05458991
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "901",
+"officialName" : "Derio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 509169.932172813,
+"y" : 4793169.33348783
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "026",
+"officialName" : "Dima",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 520176.638006146,
+"y" : 4776772.32214742
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "027",
+"officialName" : "Durango",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529922.610620798,
+"y" : 4779413.75969308
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "028",
+"officialName" : "Ea",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 533555.660703133,
+"y" : 4803113.87007874
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "031",
+"officialName" : "Elantxobe",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529162.027783312,
+"y" : 4805673.37165929
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "032",
+"officialName" : "Elorrio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 537226.346582141,
+"y" : 4775417.29425143
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "902",
+"officialName" : "Erandio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 501997.129861681,
+"y" : 4794450.61401607
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "033",
+"officialName" : "Ere�o",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 530542.496270987,
+"y" : 4800391.31642753
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "034",
+"officialName" : "Ermua",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 540455.793151695,
+"y" : 4781591.1467264
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "079",
+"officialName" : "Errigoiti",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 522265.358751622,
+"y" : 4796250.24575545
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "029",
+"officialName" : "Etxebarri",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 508754.84166074,
+"y" : 4788167.22030453
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "030",
+"officialName" : "Etxebarria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 542486.452187186,
+"y" : 4789203.15285866
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "906",
+"officialName" : "Forua",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 526339.3760178,
+"y" : 4798005.20514679
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "035",
+"officialName" : "Fruiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 517425.984080413,
+"y" : 4797254.18378995
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "036",
+"officialName" : "Galdakao",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 513002.046262964,
+"y" : 4786498.59612475
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "037",
+"officialName" : "Galdames",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 492050.592425235,
+"y" : 4789025.35331411
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "038",
+"officialName" : "Gamiz-Fika",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 514739.898140645,
+"y" : 4797133.02454343
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "039",
+"officialName" : "Garai",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 531576.458146879,
+"y" : 4782410.77633127
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "040",
+"officialName" : "Gatika",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510086.68212629,
+"y" : 4801048.4838607
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "041",
+"officialName" : "Gautegiz Arteaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 528229.296634841,
+"y" : 4799694.20583627
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "046",
+"officialName" : "Gernika-Lumo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 526060.760622934,
+"y" : 4795885.64820771
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "044",
+"officialName" : "Getxo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 499382.51400293,
+"y" : 4798917.71884146
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "047",
+"officialName" : "Gizaburuaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 537449.547307061,
+"y" : 4797651.64570832
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "042",
+"officialName" : "Gordexola",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 493859.798936704,
+"y" : 4780485.08618455
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "043",
+"officialName" : "Gorliz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 505451.451140975,
+"y" : 4806948.05331787
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "045",
+"officialName" : "G�e�es",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 496141.176368783,
+"y" : 4783448.60856
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "048",
+"officialName" : "Ibarrangelu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529819.466767866,
+"y" : 4804231.38865793
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "094",
+"officialName" : "Igorre",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 518009.182250454,
+"y" : 4779090.58504997
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "049",
+"officialName" : "Ispaster",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 536893.908039842,
+"y" : 4801112.53288968
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "910",
+"officialName" : "Iurreta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529794.546658852,
+"y" : 4780473.96808898
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "050",
+"officialName" : "Izurtza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 529188.26728923,
+"y" : 4777938.06246666
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "022",
+"officialName" : "Karrantza Harana/Valle de Carranza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 470703.12985315,
+"y" : 4785862.15514132
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "907",
+"officialName" : "Kortezubi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 527934.56810529,
+"y" : 4798741.39904344
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "051",
+"officialName" : "Lanestosa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 464372.968620672,
+"y" : 4785318.73822372
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "052",
+"officialName" : "Larrabetzu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 516545.698958856,
+"y" : 4789804.51984994
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "053",
+"officialName" : "Laukiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 507508.506360767,
+"y" : 4799959.74035261
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "054",
+"officialName" : "Leioa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 501110.198278223,
+"y" : 4797216.11031159
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 2
+}, {
+"geoMunicipality" : {
+"oid" : "057",
+"officialName" : "Lekeitio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 540246.239938496,
+"y" : 4801354.25148548
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "055",
+"officialName" : "Lemoa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 518416.603768025,
+"y" : 4783642.5353421
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "056",
+"officialName" : "Lemoiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 507880.980352857,
+"y" : 4806584.79554063
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "081",
+"officialName" : "Lezama",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 512552.733893706,
+"y" : 4789862.30995102
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "903",
+"officialName" : "Loiu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 504915.479133849,
+"y" : 4795776.50690263
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "058",
+"officialName" : "Mallabia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 538265.429367265,
+"y" : 4782000.67657764
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "059",
+"officialName" : "Ma�aria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 527584.325951024,
+"y" : 4776176.55419708
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "060",
+"officialName" : "Markina-Xemein",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 540709.562653622,
+"y" : 4790630.2584084
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "061",
+"officialName" : "Maruri-Jatabe",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510753.332150477,
+"y" : 4802962.63598377
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "062",
+"officialName" : "Mendata",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 528891.106121638,
+"y" : 4792047.52564336
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "063",
+"officialName" : "Mendexa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 541720.220681706,
+"y" : 4799306.38226693
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "064",
+"officialName" : "Me�aka",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 515983.536923196,
+"y" : 4801155.58551516
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "066",
+"officialName" : "Morga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 520044.87973287,
+"y" : 4794104.01338562
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "068",
+"officialName" : "Mundaka",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 524440.970029424,
+"y" : 4806095.19940402
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "069",
+"officialName" : "Mungia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 512438.358674634,
+"y" : 4800193.35033733
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "007",
+"officialName" : "Munitibar-Arbatzegi Gerrikaitz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 533052.203583448,
+"y" : 4790363.36412498
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "908",
+"officialName" : "Murueta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 525746.991546819,
+"y" : 4799836.05153938
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "071",
+"officialName" : "Muskiz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 489867.477077544,
+"y" : 4796723.63466821
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "067",
+"officialName" : "Muxika",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 523641.580430514,
+"y" : 4793339.20439048
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "909",
+"officialName" : "Nabarniz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 533655.30815427,
+"y" : 4796622.4420016
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "073",
+"officialName" : "Ondarroa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 546992.992497025,
+"y" : 4796603.85518536
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "075",
+"officialName" : "Orozko",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 507238.095965394,
+"y" : 4772708.52823853
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "083",
+"officialName" : "Ortuella",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 495324.9232282,
+"y" : 4795300.05851392
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "072",
+"officialName" : "Otxandio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 528125.377636229,
+"y" : 4765351.92835748
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "077",
+"officialName" : "Plentzia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 504030.732801513,
+"y" : 4805724.29293694
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "078",
+"officialName" : "Portugalete",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 498601.727900358,
+"y" : 4796481.59612723
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 3
+}, {
+"geoMunicipality" : {
+"oid" : "082",
+"officialName" : "Santurtzi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 497653.196973968,
+"y" : 4797238.47648047
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "084",
+"officialName" : "Sestao",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 499384.921902278,
+"y" : 4795204.22492935
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "904",
+"officialName" : "Sondika",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 505574.542625842,
+"y" : 4793584.01245707
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "085",
+"officialName" : "Sopela",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 501534.062779704,
+"y" : 4803204.03463437
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "086",
+"officialName" : "Sopuerta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 487487.680882694,
+"y" : 4789870.67851756
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "076",
+"officialName" : "Sukarrieta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 524580.991025809,
+"y" : 4804748.39010026
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "087",
+"officialName" : "Trucios-Turtzioz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 479213.528498824,
+"y" : 4790982.47807636
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "088",
+"officialName" : "Ubide",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 525393.500377678,
+"y" : 4763473.27015463
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "065",
+"officialName" : "Ugao-Miraballes",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 508014.330148648,
+"y" : 4780836.14605118
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "089",
+"officialName" : "Urduliz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 504165.162853519,
+"y" : 4802197.15710337
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "074",
+"officialName" : "Urdu�a/Ordu�a",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 499247.737609237,
+"y" : 4760247.22274734
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "080",
+"officialName" : "Valle de Tr�paga-Trapagaran",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 496918.507300713,
+"y" : 4794723.46727878
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "095",
+"officialName" : "Zaldibar",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 536926.290987592,
+"y" : 4779882.51939879
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "096",
+"officialName" : "Zalla",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 489110.093777549,
+"y" : 4784534.12262127
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "905",
+"officialName" : "Zamudio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510929.216003945,
+"y" : 4792420.46176277
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "097",
+"officialName" : "Zaratamo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 510251.689201534,
+"y" : 4784286.07510956
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "024",
+"officialName" : "Zeanuri",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 520372.947772926,
+"y" : 4771745.45320456
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "025",
+"officialName" : "Zeberio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 512280.731975818,
+"y" : 4777196.27952736
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "913",
+"officialName" : "Zierbena",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 492797.478273617,
+"y" : 4799231.48509614
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "915",
+"officialName" : "Ziortza-Bolibar",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 536576.386928783,
+"y" : 4788675.51323855
+},
+"stateId" : "16",
+"countyId" : "48",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "001",
+"officialName" : "Abaltzisketa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 572841.453911954,
+"y" : 4766515.35907234
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "002",
+"officialName" : "Aduna",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 577160.169826348,
+"y" : 4783889.53303363
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "016",
+"officialName" : "Aia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 569168.599274286,
+"y" : 4787420.91813933
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "003",
+"officialName" : "Aizarnazabal",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 561973.672326328,
+"y" : 4789488.95390353
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "005",
+"officialName" : "Alegia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 573378.423712988,
+"y" : 4772353.61903126
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "004",
+"officialName" : "Albiztur",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 570184.848246748,
+"y" : 4775589.86469168
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "006",
+"officialName" : "Alkiza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 572417.572918011,
+"y" : 4780401.83044551
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "906",
+"officialName" : "Altzaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 568897.248808619,
+"y" : 4768330.03823422
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "007",
+"officialName" : "Altzo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 574577.268970665,
+"y" : 4772306.05717818
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "008",
+"officialName" : "Amezketa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 574262.246467492,
+"y" : 4766646.97652746
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "009",
+"officialName" : "Andoain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 579584.47917423,
+"y" : 4785647.31194202
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "010",
+"officialName" : "Anoeta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 575492.089306171,
+"y" : 4779162.70269687
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "011",
+"officialName" : "Antzuola",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 550367.943806343,
+"y" : 4771950.62805997
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "012",
+"officialName" : "Arama",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 567934.047837908,
+"y" : 4768219.187222
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "013",
+"officialName" : "Aretxabaleta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 540419.056194163,
+"y" : 4764871.08072233
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "055",
+"officialName" : "Arrasate/Mondrag�n",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 541530.96968836,
+"y" : 4768246.90247463
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "014",
+"officialName" : "Asteasu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 573352.926367828,
+"y" : 4782681.53995191
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "903",
+"officialName" : "Astigarraga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 585263.9138539,
+"y" : 4792447.467137
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "015",
+"officialName" : "Ataun",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 567092.280859703,
+"y" : 4761922.6057694
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "017",
+"officialName" : "Azkoitia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 555886.4697874,
+"y" : 4780765.37817307
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "018",
+"officialName" : "Azpeitia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 559656.036218095,
+"y" : 4781498.47260064
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "904",
+"officialName" : "Baliarrain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 571027.84391332,
+"y" : 4768875.62478019
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "019",
+"officialName" : "Beasain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 565478.633708025,
+"y" : 4766372.31357473
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "020",
+"officialName" : "Beizama",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 565117.613730304,
+"y" : 4776010.64261623
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "021",
+"officialName" : "Belauntza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 577171.549624641,
+"y" : 4776220.40668554
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "022",
+"officialName" : "Berastegi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 583013.492771669,
+"y" : 4775090.47023343
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "074",
+"officialName" : "Bergara",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 547741.997626683,
+"y" : 4774029.53196255
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "023",
+"officialName" : "Berrobi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 579179.679958005,
+"y" : 4777417.77158778
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "024",
+"officialName" : "Bidania-Goiatz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 568310.669684013,
+"y" : 4776652.1127382
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "029",
+"officialName" : "Deba",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 552386.95091793,
+"y" : 4793682.93551245
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "069",
+"officialName" : "Donostia / San Sebasti�n",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 582220.700157276,
+"y" : 4797049.40886604
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "030",
+"officialName" : "Eibar",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 542796.296057512,
+"y" : 4781427.26479789
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "031",
+"officialName" : "Elduain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 581313.037549972,
+"y" : 4776944.0727281
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "033",
+"officialName" : "Elgeta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 541689.478733855,
+"y" : 4776147.01925614
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "032",
+"officialName" : "Elgoibar",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 547345.939414943,
+"y" : 4784784.91966201
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "067",
+"officialName" : "Errenteria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 589307.799393295,
+"y" : 4796122.2176855
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "066",
+"officialName" : "Errezil",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 567197.741903446,
+"y" : 4779464.42101526
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "034",
+"officialName" : "Eskoriatza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 538564.586122673,
+"y" : 4762838.58886978
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "035",
+"officialName" : "Ezkio-Itsaso",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 560397.751679861,
+"y" : 4769142.78901737
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "038",
+"officialName" : "Gabiria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 558640.01814009,
+"y" : 4766578.36827943
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "037",
+"officialName" : "Gaintza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 570584.221443208,
+"y" : 4767119.62556695
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "907",
+"officialName" : "Gaztelu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 579577.659541485,
+"y" : 4774196.9432865
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "039",
+"officialName" : "Getaria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 564524.94064125,
+"y" : 4794787.89624268
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "040",
+"officialName" : "Hernani",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 583114.063800639,
+"y" : 4790767.09496954
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "041",
+"officialName" : "Hernialde",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 574406.019498821,
+"y" : 4778404.55256113
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "036",
+"officialName" : "Hondarribia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 597928.763499482,
+"y" : 4801769.27039649
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "042",
+"officialName" : "Ibarra",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 576269.436730562,
+"y" : 4775833.96287987
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "043",
+"officialName" : "Idiazabal",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 562484.889149052,
+"y" : 4762537.1105103
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "044",
+"officialName" : "Ikaztegieta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 571308.776498998,
+"y" : 4771722.97705452
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "045",
+"officialName" : "Irun",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 598178.030559477,
+"y" : 4799048.06651408
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "01"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "046",
+"officialName" : "Irura",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 575785.547916202,
+"y" : 4779877.50025852
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "047",
+"officialName" : "Itsasondo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 567965.779333437,
+"y" : 4768645.03427825
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "048",
+"officialName" : "Larraul",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 572977.739365855,
+"y" : 4782030.0315494
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "902",
+"officialName" : "Lasarte-Oria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 579508.729299508,
+"y" : 4791083.39079093
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "049",
+"officialName" : "Lazkao",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 566240.882284102,
+"y" : 4764957.38593903
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "050",
+"officialName" : "Leaburu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 577125.00789887,
+"y" : 4775098.76881196
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "051",
+"officialName" : "Legazpi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 554245.238994209,
+"y" : 4766632.62898506
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "052",
+"officialName" : "Legorreta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 569277.119669599,
+"y" : 4770633.26371255
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "068",
+"officialName" : "Leintz-Gatzaga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 535220.352022515,
+"y" : 4759451.4990476
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "053",
+"officialName" : "Lezo",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 589284.949088172,
+"y" : 4797052.87827177
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "054",
+"officialName" : "Lizartza",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 578642.339076591,
+"y" : 4772727.8049366
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "901",
+"officialName" : "Mendaro",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 549881.8532484,
+"y" : 4789076.0846243
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "057",
+"officialName" : "Mutiloa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 559246.5366504,
+"y" : 4763567.18406802
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "056",
+"officialName" : "Mutriku",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 549702.621425289,
+"y" : 4795126.04832029
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "063",
+"officialName" : "Oiartzun",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 592440.121858289,
+"y" : 4794662.23776684
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "058",
+"officialName" : "Olaberria",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 564928.197812345,
+"y" : 4764175.57985533
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "059",
+"officialName" : "O�ati",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 547796.892784099,
+"y" : 4764610.11542332
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "03"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "076",
+"officialName" : "Ordizia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 566835.353051437,
+"y" : 4767112.88672126
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "905",
+"officialName" : "Orendain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 572098.402560823,
+"y" : 4770037.90569199
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "060",
+"officialName" : "Orexa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 580435.160327764,
+"y" : 4771731.79554399
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "061",
+"officialName" : "Orio",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 570851.481778474,
+"y" : 4791827.44334146
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "062",
+"officialName" : "Ormaiztegi",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 560669.489718368,
+"y" : 4765850.18301097
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "064",
+"officialName" : "Pasaia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 587567.250998192,
+"y" : 4797730.07227456
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "070",
+"officialName" : "Segura",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 560942.769802006,
+"y" : 4762048.9241322
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "065",
+"officialName" : "Soraluze-Placencia de las Armas",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 547698.441036406,
+"y" : 4780325.08359155
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "02"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "071",
+"officialName" : "Tolosa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 575475.38244288,
+"y" : 4776559.1586604
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "072",
+"officialName" : "Urnieta",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 581961.059339128,
+"y" : 4788824.19777024
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "077",
+"officialName" : "Urretxu",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 555843.836774955,
+"y" : 4771388.27438606
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "073",
+"officialName" : "Usurbil",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 576989.802701183,
+"y" : 4791327.43898768
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "04"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "075",
+"officialName" : "Villabona",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 576898.327264617,
+"y" : 4782109.87787245
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "078",
+"officialName" : "Zaldibia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 569170.512399796,
+"y" : 4765412.6979482
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "079",
+"officialName" : "Zarautz",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 566918.458563897,
+"y" : 4792830.77148043
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 1
+}, {
+"geoMunicipality" : {
+"oid" : "025",
+"officialName" : "Zegama",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 557886.378628809,
+"y" : 4758363.11547786
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "026",
+"officialName" : "Zerain",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 559361.431382003,
+"y" : 4762401.37376077
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "027",
+"officialName" : "Zestoa",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 560187.959325973,
+"y" : 4787735.69422104
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "028",
+"officialName" : "Zizurkil",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 575255.348270529,
+"y" : 4783221.76741584
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "06"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "081",
+"officialName" : "Zumaia",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 560151.931544277,
+"y" : 4794040.12432924
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "07"
+},
+"positiveCount" : 0
+}, {
+"geoMunicipality" : {
+"oid" : "080",
+"officialName" : "Zumarraga",
+"nameByLang" : { },
+"geoPosition2D" : {
+"standard" : "GOOGLE",
+"x" : 555785.667863972,
+"y" : 4771088.31576625
+},
+"stateId" : "16",
+"countyId" : "20",
+"regionId" : "05"
+},
+"positiveCount" : 0
+} ]
+}, {
