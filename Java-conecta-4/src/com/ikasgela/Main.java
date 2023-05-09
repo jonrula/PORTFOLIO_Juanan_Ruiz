@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+import javax.sound.sampled.SourceDataLine;
+
 public class Main {
 
     // Variables globales para cambiar los colores de las fichas
@@ -14,7 +16,7 @@ public class Main {
     static String reset = "\u001B[0m";
     static String blue = "\033[34m";
 
-
+   
     static int columna;
     static boolean turno = true;
     static int juego = 0;
